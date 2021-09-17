@@ -40,7 +40,7 @@ cor(df2[,c ("iaps_SD", "iaps_hit_LD", "words_hit_IR", "words_hit_SD")], use = "p
 # AV1 -> iaps_SD
 # AV2 -> iaps_hit_LD
 # AV3 -> words_hit_IR
-#  AV4   ->   words_hit_SD
+# AV4 -> words_hit_SD
 
 # calculating the association of attention & WM
 summary(lm(iaps_SD ~ D2_mean + mac_2b_mean, data = df2))
