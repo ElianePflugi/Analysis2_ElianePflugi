@@ -1,0 +1,7 @@
+library(dplyr)#
+library(data.table)
+library(data.table)
+library(dplyr)
+df <- read.table ("~/Desktop/Gittest/Analysis_ElianePflugi/Verhaltensdaten.txt", sep="\t", header = TRUE)
+df2 <- df [!(df$subject_filter=="remove"),]
+count(df2)
