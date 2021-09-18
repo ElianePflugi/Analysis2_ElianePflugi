@@ -26,7 +26,7 @@ Experiments testing for an interaction between episodic memory and working memor
 
 ## Methods
 
-Participants. We analyzed data of N = 1000 subjects from four different samples. Overall, 65% of the subjects were female and the mean age was 22.3 years (range 18 –38). Subjects were recruited from the different areas of Zurich in Switzerland. An overview of the demographics is given in Table 1.
+Participants. We analyzed data of N = 1000 subjects from Switzerland. Overall, 65% of the subjects were female and the mean age was 22.3 years (range 18 –38). Subjects were recruited from the different areas of Zurich in Switzerland. An overview of the demographics is given in Table 1.
 
 ### Study description. 
 The experiment took place on 2 consecutive days in lecture halls. On day 1 participants received instructions and were trained on the picture-rating task and a working memory task (N-back). After training, participants performed the picture-rating task. While viewing the pictures, subjects had to rate the perceived valence and arousal of each picture on two three-point scales. The working memory task (10 min) served as a distraction task. It was followed by the unannounced free recall test (no time limit) of the pictures. 
